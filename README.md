@@ -1,4 +1,4 @@
-# CSC230
+# Microcontroller Light Bulb and Screen Controller (AVR in Microchip Studio)
 CSC230: Introduction to Computer Architecture
 
 Coursework	Weight (out of 100%)
